@@ -1,28 +1,79 @@
-# Case Analysis Template
+# Case Analysis
 
-## 1. Case Details
+A structured framework for analysing an Indian judicial decision.
 
-**Case Name:**
+---
 
-**Court:**
+## 1. Case Identification
 
-**Citation:**
+### Case Name
+-
 
-**Date of Judgment:**
+### Court
+-
 
-**Bench / Judge(s):**
+### Citation
+-
 
-## 2. Material Facts
+### Date of Judgment
+-
 
-Summarise the facts necessary to understand the dispute.
+### Bench
+-
 
-## 3. Issues
+### Type of Decision
+- Constitutional / Civil / Criminal / Administrative / Commercial / Other
 
-1.
-2.
-3.
+---
 
-## 4. Arguments of the Parties
+## 2. Procedural History
+
+### Court of First Instance
+-
+
+### Appellate / Revisional History
+-
+
+### Previous Proceedings
+-
+
+---
+
+## 3. Material Facts
+
+Record only facts that are legally relevant.
+
+-
+
+---
+
+## 4. Legal Issues
+
+### Issue 1
+-
+
+### Issue 2
+-
+
+### Issue 3
+-
+
+---
+
+## 5. Relevant Law
+
+### Constitutional Provisions
+-
+
+### Statutory Provisions
+-
+
+### Rules / Regulations
+-
+
+---
+
+## 6. Arguments of the Parties
 
 ### Petitioner / Appellant
 
@@ -32,40 +83,160 @@ Summarise the facts necessary to understand the dispute.
 
 -
 
-## 5. Decision / Holding
+---
 
-State what the court decided.
+## 7. Authorities Considered
 
-## 6. Ratio Decidendi
+### Cases Relied Upon
 
-State the legal principle necessary for the decision.
+| Case | Court | Citation | Principle |
+|---|---|---|---|
+| | | | |
 
-## 7. Important Observations
+### Cases Distinguished
+
+| Case | Court | Citation | Reason Distinguished |
+|---|---|---|---|
+| | | | |
+
+### Cases Overruled / Reconsidered
+
+| Case | Court | Citation | Treatment |
+|---|---|---|---|
+| | | | |
+
+---
+
+## 8. Court's Reasoning
+
+Explain the reasoning step by step.
+
+### Issue 1
 
 -
 
-## 8. Statutes / Constitutional Provisions
+### Issue 2
 
 -
 
-## 9. Cases Relied Upon
+### Issue 3
 
 -
 
-## 10. Cases Distinguished or Overruled
+---
+
+## 9. Decision / Holding
+
+State precisely what the court decided.
 
 -
 
-## 11. Subsequent Treatment
+---
 
-Record later decisions that followed, distinguished, questioned, or overruled the case.
+## 10. Ratio Decidendi
 
-## 12. Research Notes
+Identify the legal principle necessary for the decision.
 
-**Key proposition:**
+-
 
-**Important paragraph numbers:**
+---
 
-**Practical significance:**
+## 11. Obiter Dicta
 
-**Source:**
+Record significant observations that were not necessary for the decision.
+
+-
+
+---
+
+## 12. Important Observations
+
+-
+
+---
+
+## 13. Application of Law
+
+Explain how the court applied the governing law to the material facts.
+
+-
+
+---
+
+## 14. Final Order
+
+-
+
+---
+
+## 15. Subsequent Treatment
+
+### Followed By
+
+-
+
+### Distinguished By
+
+-
+
+### Overruled / Reversed By
+
+-
+
+### Reaffirmed By
+
+-
+
+### Later Judicial Treatment
+
+-
+
+---
+
+## 16. Current Legal Position
+
+State the legal position that emerges after considering subsequent authorities.
+
+-
+
+---
+
+## 17. Research Notes
+
+### Key Legal Principle
+
+-
+
+### Practical Significance
+
+-
+
+### Unresolved Questions
+
+-
+
+---
+
+## 18. Sources
+
+### Primary Sources
+
+-
+
+### Secondary Sources
+
+-
+
+### Official Links
+
+-
+
+---
+
+## 19. Research Date
+
+-
+
+## 20. Researcher
+
+-
