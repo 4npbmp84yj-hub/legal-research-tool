@@ -1,143 +1,468 @@
 # Indian Legal Research Sources
 
-A structured directory of reliable sources for legal research in India.
+A structured directory of primary and secondary sources for Indian legal research.
+
+---
 
 ## 1. Primary Legal Sources
 
-### Constitution
+### Constitution of India
 
-- Constitution of India
+**Source:** Official Government / Legislative source
+
+**Use for:**
+- Constitutional provisions
+- Fundamental Rights
+- Directive Principles
 - Constitutional amendments
-- Official constitutional materials
+- Schedules
 
-### Legislation
+**Link:**
 
+---
+
+### Supreme Court of India
+
+**Source:** Supreme Court of India
+
+**Use for:**
+- Judgments
+- Orders
+- Case status
+- Constitution Bench decisions
+- Recent judgments
+
+**Link:**
+
+---
+
+### High Courts
+
+**Source:** Official High Court websites
+
+**Use for:**
+- Judgments
+- Orders
+- Case status
+- Cause lists
+- Local procedural material
+
+**Link:**
+
+---
+
+### India Code
+
+**Use for:**
 - Central Acts
+- Sections
+- Schedules
+- Rules
+- Regulations
+- Legislative history
+
+**Link:**
+
+---
+
+### Legislative Department
+
+**Use for:**
+- Central legislation
+- Constitutional amendments
+- Bills
+- Legislative material
+
+**Link:**
+
+---
+
+### Gazette of India
+
+**Use for:**
+- Acts
+- Notifications
+- Rules
+- Regulations
+- Appointments
+- Commencement notifications
+
+**Link:**
+
+---
+
+## 2. Case Law Research
+
+### Supreme Court Judgments
+
+**Search for:**
+
+- Case name
+- Citation
+- Party name
+- Judge
+- Date
+- Legal provision
+- Subject
+
+**Source:**
+
+---
+
+### High Court Judgments
+
+**Search for:**
+
+- Case number
+- Party name
+- Citation
+- Judge
+- Date
+- Subject
+
+**Source:**
+
+---
+
+### Case History
+
+For every important judgment check:
+
+1. Earlier proceedings
+2. Appeal / revision
+3. Previous judgments
+4. Subsequent judgments
+5. Review / curative proceedings
+6. Whether the judgment has been distinguished, followed, or overruled
+
+---
+
+## 3. Legislation Research
+
+### Central Legislation
+
+- Act
+- Rules
+- Regulations
+- Notifications
+- Circulars
+- Amendments
+- Commencement notifications
+
+### State Legislation
+
 - State Acts
-- Ordinances
 - Rules
 - Regulations
 - Notifications
 - Government orders
+- Departmental circulars
 
-### Judicial Decisions
+---
 
-- Supreme Court of India judgments
-- High Court judgments
-- Tribunal decisions
-- Other relevant judicial decisions
+## 4. Legislative History
 
-## 2. Official Government Sources
+When researching a statutory provision, check:
 
-Prefer official government sources when verifying legislation, notifications, rules, and government materials.
+1. Original Act
+2. Statement of Objects and Reasons
+3. Bill
+4. Parliamentary debates
+5. Committee reports
+6. Amendments
+7. Commencement notification
+8. Subsequent amendments
+9. Repeal / substitution
 
-Useful sources include:
+---
 
-- India Code
-- Legislative Department
-- e-Gazette
-- Official Gazette publications
-- Ministry websites
-- Department websites
-- Supreme Court of India
-- High Courts
-- Official tribunal websites
+## 5. Parliamentary Sources
 
-## 3. Case-Law Research
+### Lok Sabha
 
-When researching a judgment, record:
+**Use for:**
+- Bills
+- Debates
+- Questions
+- Committee reports
 
-- Case name
-- Court
-- Citation
-- Date
-- Bench
-- Relevant paragraph numbers
-- Legal proposition
-- Cases relied upon
-- Cases subsequently following or distinguishing the decision
+**Link:**
 
-## 4. Secondary Sources
+### Rajya Sabha
 
-Secondary sources may assist with understanding and discovering authorities.
+**Use for:**
+- Bills
+- Debates
+- Questions
+- Committee reports
 
-Examples:
+**Link:**
 
-- Legal textbooks
-- Commentaries
+### Parliamentary Committees
+
+**Use for:**
+- Legislative scrutiny
+- Committee reports
+- Recommendations
+
+**Link:**
+
+---
+
+## 6. Law Commission of India
+
+**Use for:**
+
+- Law reform reports
+- Consultation papers
+- Recommendations
+- Legislative research
+
+**Link:**
+
+---
+
+## 7. Government Sources
+
+### Ministry Websites
+
+Record the relevant ministry:
+
+**Ministry:**
+
+**Department:**
+
+**Link:**
+
+### Government Notifications
+
+- Gazette
+- Notifications
+- Circulars
+- Office memoranda
+- Government orders
+
+---
+
+## 8. Legal Databases
+
+### SCC Online
+
+**Use for:**
+
+- Case law
+- Statutes
+- Headnotes
+- Citations
+- Case history
+
+**Link:**
+
+### Manupatra
+
+**Use for:**
+
+- Case law
+- Statutes
+- Legal research
+- Case history
+
+**Link:**
+
+### Indian Kanoon
+
+**Use for:**
+
+- Judgments
+- Statutes
+- Basic case-law searching
+
+**Link:**
+
+---
+
+## 9. Academic Legal Sources
+
+### Law Journals
+
+Search for:
+
+- Doctrinal analysis
+- Case comments
+- Legislative analysis
+- Comparative research
+
+### HeinOnline
+
+**Use for:**
+
 - Law journals
-- Research papers
-- Law reviews
-- Government reports
+- Historical legal material
+- Scholarly research
+
+**Link:**
+
+### Google Scholar
+
+**Use for:**
+
+- Academic papers
+- Case-law discovery
+- Scholarly citations
+
+**Link:**
+
+---
+
+## 10. International Sources
+
+Use only when relevant to the research question.
+
+### United Nations
+
+- Treaties
+- Conventions
+- Reports
+- International instruments
+
+### International Court of Justice
+
+- Judgments
+- Advisory opinions
+- Orders
+
+### Other International Courts / Bodies
+
+- 
+
+---
+
+## 11. Source Verification Protocol
+
+Before relying on a source:
+
+- [ ] Is it an official source?
+- [ ] Is the legislation current?
+- [ ] Has the provision been amended?
+- [ ] Has the judgment been appealed?
+- [ ] Has the judgment been overruled?
+- [ ] Has the case been distinguished?
+- [ ] Is the citation accurate?
+- [ ] Is the source date clear?
+- [ ] Is there a more authoritative source?
+- [ ] Has the original judgment / legislation been checked?
+
+---
+
+## 12. Source Priority
+
+### Tier 1: Primary Authority
+
+- Constitution
+- Statutes
+- Rules
+- Regulations
+- Notifications
+- Supreme Court judgments
+- High Court judgments
+- Official government documents
+
+### Tier 2: Persuasive / Scholarly Sources
+
 - Law Commission reports
-- Parliamentary materials
-- Academic publications
+- Parliamentary committee reports
+- Academic journals
+- Scholarly books
+- Legal commentaries
 
-Secondary sources should generally be verified against the underlying primary authority.
+### Tier 3: Discovery Sources
 
-## 5. Research Databases
+- Search engines
+- Legal blogs
+- News reports
+- General websites
 
-Common legal research platforms include:
+**Rule:** Use lower-tier sources primarily to locate material. Verify important propositions against the underlying primary authority.
 
-- SCC Online
-- Manupatra
-- LiveLaw
-- Indian Kanoon
-- CaseMine
-- LegitQuest
+---
 
-Availability, coverage, search functionality, and editorial treatment may differ between platforms.
+## 13. Research Log
 
-## 6. Research Source Hierarchy
+| Date | Research Question | Source | Finding | Verified |
+|---|---|---|---|---|
+| | | | | |
 
-When verifying a legal proposition, generally work from:
+---
 
-1. Constitution / legislation
-2. Official judgment
-3. Subsequent authoritative judgments
-4. Rules / regulations / notifications
-5. Official government materials
-6. Secondary legal sources
+## 14. Useful Search Methods
 
-## 7. Source Verification
+### Search by Case Name
 
-Before relying on a source, check:
+`"Case Name"`
 
-- Is the source authoritative?
-- Is the legislation current?
-- Has the judgment been overruled?
-- Has a later Bench modified the principle?
-- Is the citation accurate?
-- Does the source actually support the proposition stated?
+### Search by Citation
 
-## 8. Research Log
+`"citation"`
 
-For every important source, record:
+### Search by Legal Proposition
 
-**Source:**
+`"exact legal proposition"`
 
-**Title / Case:**
+### Search by Statutory Provision
 
-**Court / Institution:**
+`"Section X" "Act Name"`
+
+### Search for Subsequent Treatment
+
+`"Case Name" followed OR distinguished OR overruled`
+
+---
+
+## 15. Source Notes
+
+Record important sources discovered during research.
+
+### Source 1
+
+**Title:**
+
+**Author / Institution:**
 
 **Date:**
 
-**Citation / Identifier:**
+**Link:**
 
-**Relevant provision / paragraph:**
+**Relevant Pages / Paragraphs:**
 
-**Legal proposition:**
+**Use:**
 
-**URL / Database:**
+---
 
-**Date accessed:**
+### Source 2
 
-## 9. Research Practice
+**Title:**
 
-Do not treat search-engine results, summaries, AI-generated answers, or database headnotes as substitutes for the primary authority.
+**Author / Institution:**
 
-Use them to locate material, then verify the proposition against the underlying source.
+**Date:**
 
-## 10. Research Disclaimer
+**Link:**
 
-This repository is an educational research toolkit. Users should independently verify legislation, judgments, citations, amendments, and current legal position before relying on them for legal advice, pleadings, submissions, or professional work.
+**Relevant Pages / Paragraphs:**
+
+**Use:**
+
+---
+
+## 16. Final Verification
+
+Before completing research:
+
+- [ ] Primary authority located
+- [ ] Current law verified
+- [ ] Relevant case history checked
+- [ ] Conflicting authorities checked
+- [ ] Amendments checked
+- [ ] Citations verified
+- [ ] Important paragraphs recorded
+- [ ] Research conclusion supported by authority
