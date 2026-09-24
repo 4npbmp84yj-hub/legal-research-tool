@@ -48,3 +48,27 @@
 ## Recent Developments
 
 - 
+
+## Related Case Research
+
+### Kesavananda Bharati v. State of Kerala
+
+Relevant to:
+
+- Constitutional amendment power
+- Basic structure doctrine
+- Constitutional supremacy
+
+See: `../cases/kesavananda-bharati.md`
+
+### Maneka Gandhi v. Union of India
+
+Relevant to:
+
+- Article 14
+- Article 19
+- Article 21
+- Personal liberty
+- Procedural fairness
+
+See: `../cases/maneka-gandhi.md`
