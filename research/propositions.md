@@ -40,3 +40,18 @@ Each entry should contain:
 6. A verification date.
 
 Avoid stating broad legal conclusions when the authority supports only a narrower proposition.
+---
+
+### Basic Structure and Constitutional Amendments
+
+**Proposition:** Parliament's power to amend the Constitution is subject to limitations imposed by the basic structure doctrine.
+
+**Primary Authorities:**
+
+- *Kesavananda Bharati v. State of Kerala*, (1973) 4 SCC 225
+- *Minerva Mills Ltd. v. Union of India*, (1980) 3 SCC 625
+
+**Case Notes:**
+
+- [Kesavananda Bharati](./cases/kesavananda-bharati.md)
+- [Minerva Mills](./cases/minerva-mills.md)
