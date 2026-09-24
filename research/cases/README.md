@@ -25,7 +25,7 @@ Each case note should record:
 |---|---:|---|---|
 | Kesavananda Bharati v. State of Kerala | 1973 | Constitutional Law, Basic Structure | [Read case note](./kesavananda-bharati.md) |
 | Maneka Gandhi v. Union of India | 1978 | Fundamental Rights, Personal Liberty | [Read case note](./maneka-gandhi.md) |
-
+| Minerva Mills Ltd. v. Union of India | 1980 | Constitutional Law, Basic Structure | [Read case note](./minerva-mills.md) |
 ## How to Use This Index
 
 Use the case notes to identify:
