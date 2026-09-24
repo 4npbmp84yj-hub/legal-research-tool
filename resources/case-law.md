@@ -1,16 +1,38 @@
-# Case Law Research Resources
+# Indian Case Law Research
 
-This file provides a structured starting point for researching Indian case law.
+A structured guide for researching judgments of Indian courts.
 
-## How to Research a Case
+## 1. Identify the Legal Issue
 
-When researching a judgment, record the following:
+Before searching for cases, formulate the precise legal question.
+
+Ask:
+
+- What legal right or duty is involved?
+- Which statute or constitutional provision applies?
+- What is the factual dispute?
+- What exact proposition of law needs authority?
+
+## 2. Find Primary Authorities
+
+Begin with authoritative sources:
+
+- Supreme Court of India judgments
+- High Court judgments
+- Constitutional provisions
+- Central and State legislation
+- Rules and regulations
+- Notifications and other official legal instruments
+
+## 3. Case Details to Record
+
+For every important judgment, record:
 
 1. Case name
 2. Court
 3. Citation
 4. Date of judgment
-5. Bench or judge(s)
+5. Bench / Judge(s)
 6. Material facts
 7. Issues before the court
 8. Arguments of the parties
@@ -20,55 +42,90 @@ When researching a judgment, record the following:
 12. Statutes or constitutional provisions considered
 13. Cases relied upon
 14. Cases distinguished or overruled
-15. Subsequent treatment of the decision
+15. Subsequent treatment
 
-## Suggested Research Workflow
+## 4. Read the Judgment Systematically
 
-### Step 1: Identify the Legal Issue
+Read in this order:
 
-Clearly formulate the legal question that needs to be answered.
+### A. Facts
 
-### Step 2: Find Primary Authorities
+Identify only the facts relevant to the legal issue.
 
-Start with the relevant:
+### B. Issues
 
-- Constitutional provisions
-- Statutes
-- Rules and regulations
-- Judicial decisions
+Determine the questions actually decided by the court.
 
-### Step 3: Verify the Judgment
+### C. Arguments
 
-Where possible, consult the original judgment or an authoritative court source rather than relying only on summaries.
+Record the principal submissions of each side.
 
-### Step 4: Check Subsequent Decisions
+### D. Decision
 
-Determine whether later courts have:
+Identify the precise result.
 
-- Followed the decision
-- Distinguished the decision
-- Explained the decision
-- Questioned the reasoning
-- Overruled the decision
+### E. Ratio Decidendi
 
-### Step 5: Record the Research
+Identify the legal principle necessary for the decision.
 
-Use a consistent case-analysis format so that important authorities can be located and reviewed later.
+### F. Obiter / Observations
 
-## Case Research Record
+Separate observations from the binding legal principle.
 
-**Case:**  
-**Court:**  
-**Citation:**  
-**Date:**  
-**Legal issue:**  
-**Material facts:**  
-**Holding:**  
-**Ratio decidendi:**  
-**Important authorities cited:**  
-**Subsequent treatment:**  
-**Research notes:**
+## 5. Check the Authority
 
-## Disclaimer
+Before relying on a case, verify:
 
-This resource is intended for educational and research purposes. It is not legal advice. Users should verify legal authorities and their current status before relying on them.
+- Whether it is still good law
+- Whether it has been overruled
+- Whether a later larger Bench has modified the principle
+- Whether the case has been distinguished
+- Whether subsequent Supreme Court decisions have changed the position
+
+## 6. Research Chain
+
+Use this sequence:
+
+Legal Issue
+↓
+Constitution / Statute
+↓
+Leading Supreme Court decision
+↓
+Later Supreme Court decisions
+↓
+Relevant High Court decisions
+↓
+Secondary sources
+↓
+Final legal proposition
+
+## 7. Research Note
+
+For each important case, maintain a separate research note containing:
+
+**Legal proposition:**
+
+**Authority:**
+
+**Relevant paragraph(s):**
+
+**Reasoning:**
+
+**Current status:**
+
+**Practical relevance:**
+
+**Source:**
+
+## 8. Citation Verification
+
+Never rely solely on a case summary.
+
+Where possible, verify the proposition against the judgment itself and record the relevant paragraph number.
+
+## 9. Important Principle
+
+A case should not be cited merely because its facts appear similar.
+
+Identify the precise legal proposition for which the case is being relied upon.
