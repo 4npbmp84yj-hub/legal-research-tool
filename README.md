@@ -1,39 +1,32 @@
 # Indian Legal Research Toolkit
 
-An open-source toolkit designed to help students, researchers, and legal professionals organise and conduct legal research in India.
+An open-source toolkit for organising, analysing, and conducting legal research in India.
 
 ## Purpose
 
-Legal research often requires finding statutes, case law, legal databases, and reliable research resources across multiple sources.
+This toolkit provides a structured system for:
 
-This project aims to bring useful legal research resources and practical research templates together in one open-source repository.
+- researching Indian judgments;
+- identifying relevant statutes and constitutional provisions;
+- analysing legal issues;
+- recording authorities and citations;
+- preparing legal research notes;
+- tracking the treatment of judicial decisions; and
+- organising research by cases, issues, and areas of law.
 
-## What's Included
+## Repository Structure
 
-- Case-law research resources
-- Statutory research resources
-- Legal research sources
-- Case analysis templates
-- Legal research note templates
+```text
+resources/
+    case-law.md
+    research-sources.md
+    statutes.md
 
-## Who Is This For?
+templates/
+    case-analysis.md
+    legal-research-note.md
 
-This toolkit is intended for:
-
-- Law students
-- Legal researchers
-- Advocates
-- Academics
-- Anyone learning legal research
-
-## Project Status
-
-This project is in its early development stage. Contributions, suggestions, corrections, and additional useful resources are welcome.
-
-## Disclaimer
-
-This project is intended for educational and research purposes. It does not provide legal advice.
-
-## Contributing
-
-Contributions are welcome. Please open an issue or submit a pull request with useful improvements, corrections, resources, or suggestions.
+research/
+    cases/
+    issues/
+    subjects/
